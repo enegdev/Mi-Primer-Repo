@@ -1,2 +1,2 @@
 # Mi-Primer-Repo
-hola soy un repo :D
+Esto es un repo de prubas para entender el flujo inicial de github
